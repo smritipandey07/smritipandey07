@@ -21,11 +21,10 @@ I'm a B.Tech Biotechnology student passionate about combining biology, programmi
 - Bioinformatics: DNA Sequence Analysis, Computational Biology
 - Tools: GitHub, VS Code
 
-🚀 My Projects
+ 🚀 My Projects
 
-- 🧬 DNA Sequence Analyzer
-- 💊 Drug Target Discovery System
-- 🔬 More projects coming soon!
+- 🧬 [DNA Sequence Analyzer](https://github.com/smritipandey07/dna-sequence-analyzer)
+- 💊 [Drug Target Discovery System](https://github.com/smritipandey07/drug-target-discovery-system)
 
 📚 Currently Learning
 
