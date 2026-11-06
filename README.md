@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Smriti Kumari 👋
 
-<!--
-**smritipandey07/smritipandey07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Biotechnology Student | Aspiring Bioinformatics Professional
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech Biotechnology student passionate about combining biology, programming, and computational science.
+
+🔬 About Me
+
+- 🎓 B.Tech Biotechnology Student
+- 💻 Learning Python and Bioinformatics
+- 🧬 Interested in Genetics, Genomics & Molecular Biology
+- 🚀 Building beginner-friendly scientific programming projects
+- 🎯 Aspiring Bioinformatics Professional
+
+🛠️ Skills & Technologies
+
+- Languages: Python, C
+- Biotechnology: Genetics, Microbiology, Molecular Biology
+- Bioinformatics: DNA Sequence Analysis, Computational Biology
+- Tools: GitHub, VS Code
+
+🚀 My Projects
+
+- 🧬 DNA Sequence Analyzer
+- 💊 Drug Target Discovery System
+- 🔬 More projects coming soon!
+
+📚 Currently Learning
+
+- Python for Bioinformatics
+- Biological Data Analysis
+- Genomics
+
+🌐 Connect With Me
+
+- "LinkedIn" (https://linkedin.com/in/smritipandey07)
+- "GitHub" (https://github.com/smritipandey07)
+
+---
+
+⭐ Learning Biology through Technology, one project at a time.
+
+
